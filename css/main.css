@@ -39,7 +39,10 @@
 }
 
 @media only screen and (max-width: 768px) {
-  a.main__link {
+  .main__link {
     font-size: 16px;
+  }
+  .main__title {
+    text-align: center;
   }
 }
