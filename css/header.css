@@ -1,0 +1,51 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.header__title {
+  color: var(--roxo-vivo);
+  margin-bottom: 10px;
+  font-size: 32px;
+}
+
+.header__figure {
+  width: 50%;
+  height: auto;
+  order: 1;
+  min-width: 300px;
+  padding: 20px;
+}
+
+.header__img {
+  width: 100%;
+  height: 100%;
+}
+
+.header__info {
+  padding: 20px;
+  width: 50%;
+  order: 2;
+  min-width: 300px;
+}
+
+.header__description {
+  color: var(--cinza);
+  font-size: 19px;
+}
+
+.header__link {
+  color: var(--rosa);
+}
+
+@media only screen and (max-width: 768px) {
+  .header__figure {
+    width: 100%;
+    order: 2;
+  }
+  .header__info {
+    width: 100%;
+    order: 1;
+  }
+}
