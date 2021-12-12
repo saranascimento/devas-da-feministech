@@ -2,6 +2,10 @@
 
 Projeto idealizado para a melhor compreensão sobre os itens pedidos no primeiro desafio passado no programa Mentoria da Feministech.
 
+## Acesse o projeto online:
+
+- [Devas da Feministech](https://saranascimento.github.io/devas-da-feministech/)
+
 ## O que praticamos nesse projeto:
 
 ### HTML
