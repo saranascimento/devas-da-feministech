@@ -3,7 +3,7 @@
 }
 
 .main__title {
-  color: var(--roxo-vivo);
+  color: var(--primary-color);
 }
 
 .main__list {
@@ -21,21 +21,19 @@
   width: 100%;
   min-width: 250px;
   padding: 15px;
-  background-color: var(--roxo-escuro);
+  background-color: var(--secondary-color);
   display: block;
   margin: 14px 0;
   border-radius: 8px;
   text-align: center;
   text-decoration: none;
-  color: var(--branco);
-  transition: 0.2s ease-in-out;
+  color: var(--color-white);
+  transition: 0.4s ease-in-out;
   font-size: 20px;
 }
 
 .main__link:hover {
-  background-color: var(--rosa);
-  animation: mouseHover 0.8s ease;
-  text-decoration: underline;
+  background-color: var(--tertiary-color);
 }
 
 @media only screen and (max-width: 768px) {

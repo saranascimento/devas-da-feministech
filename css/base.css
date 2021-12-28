@@ -1,10 +1,10 @@
 :root {
-  --branco: #ffffff;
-  --roxo-vivo: #8502bb;
-  --roxo-escuro: #4104a8;
-  --cinza: #858585;
-  --rosa: #f208a4;
-  --azul: #00caf3;
+  --color-white: #ffffff;
+  --dark-color: #4d4d4d;
+
+  --primary-color: #f469b2;
+  --secondary-color: #48968f;
+  --tertiary-color: #cb6ce6;
 }
 
 @font-face {
@@ -21,10 +21,12 @@
 html {
   height: 100%;
 }
+
 body {
   min-height: 100%;
   font-family: "Poppins", Tahoma, Geneva, Verdana, sans-serif;
 }
+
 #page {
   max-width: 800px;
   height: 100vh;

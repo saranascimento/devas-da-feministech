@@ -7,6 +7,11 @@
   padding: 20px;
 }
 
+.footer__info {
+  color: var(--dark-color);
+  font-size: 16px;
+}
+
 .footer__simble {
-  color: var(--rosa);
+  color: var(--primary-color);
 }

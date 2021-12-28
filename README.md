@@ -2,6 +2,10 @@
 
 Projeto idealizado para a melhor compreensão sobre os itens pedidos no primeiro desafio passado no programa Mentoria da Feministech.
 
+## Desafio:
+
+Criação de um novo projeto para praticar HTML Semântico e BEM CSS, baseado no projeto da [Feministech](https://feministech.github.io/).
+
 ## Acesse o projeto online:
 
 - [Devas da Feministech](https://saranascimento.github.io/devas-da-feministech/)
@@ -11,20 +15,26 @@ Projeto idealizado para a melhor compreensão sobre os itens pedidos no primeiro
 ### HTML
 
 - SEMÂNTICA:
-  - figure
+
+  - header
   - main
   - section
   - nav
   - footer
   - h1/h2
+
 - Listas
   - Lista de links não ordenados
 
 ### CSS
 
 - Metodologia BEM
+
   - Bloco
   - Elemento
+
+- Variáveis
+  - Cores variáveis
 
 ### Responsividade
 
