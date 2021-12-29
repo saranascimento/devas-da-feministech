@@ -32,10 +32,6 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .header {
-    justify-content: center;
-  }
-
   .header__info {
     width: 100%;
   }
