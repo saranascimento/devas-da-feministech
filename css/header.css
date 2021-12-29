@@ -1,8 +1,9 @@
-.header {
+.page__header {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
   align-items: center;
+  justify-content: center;
 }
 
 .header__img {
@@ -17,18 +18,6 @@
   font-size: 32px;
   line-height: 42px;
 }
-
-/* .header__figure {
-  width: 50%;
-  height: auto;
-  min-width: 300px;
-  padding: 20px;
-}
-
-.header__img {
-  width: 100%;
-  height: 100%;
-} */
 
 .header__info {
   padding: 20px;
@@ -46,9 +35,7 @@
   .header {
     justify-content: center;
   }
-  /* .header__figure {
-    width: 100%;
-  } */
+
   .header__info {
     width: 100%;
   }
